@@ -25,4 +25,10 @@ obj=Calculator(a=int(input("Enter the value for A")),b=int(input("Enter the valu
 
 obj.add()
 
+obj.sub()
 
+obj.mul()
+
+obj.div()
+
+obj.modu()
